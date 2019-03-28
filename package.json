@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/pafmon/sos1819-labs-test/issues"
   },
-  "homepage": "https://github.com/pafmon/sos1819-labs-test#readme"
+  "homepage": "https://github.com/pafmon/sos1819-labs-test#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
